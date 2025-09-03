@@ -1,5 +1,5 @@
 ---
-title: Connect and Protect - Networks and Network Security
+title: Connect and Protect
 subtitle: Coursera
 layout: default
 modal-id: 4
