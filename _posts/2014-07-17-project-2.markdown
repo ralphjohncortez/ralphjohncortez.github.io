@@ -1,5 +1,5 @@
 ---
-title: Sound the Alarm - Detection and Response
+title: Sound the Alarm
 subtitle: Coursera
 layout: default
 modal-id: 2
