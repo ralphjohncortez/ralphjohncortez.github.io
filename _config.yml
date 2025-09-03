@@ -2,9 +2,9 @@ url: https://ralphjohncortez.github.io
 baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Ralph John Cortez
+email: ralph.john.cortez@gmail.com
+description: "IT Support & Helpdesk | Exploring Cybersecurity & Networks | Portfolio"
 
 
 # Team names, titles and social links
@@ -45,20 +45,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://x.com/ralphcortezzz
   - title: facebook
-    url:
+    url: https://www.facebook.com/ralphcortezzz
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ralphjohncortez
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: BLK 49 LOT 71 Cristo Rey
+  - line: Capas, Tarlac
 
 # Build settings
 markdown: kramdown
