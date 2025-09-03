@@ -1,5 +1,5 @@
 ---
-title: Tools of the Trade - Linux and SQL
+title: Tools of the Trade
 subtitle: Coursera
 layout: default
 modal-id: 1
