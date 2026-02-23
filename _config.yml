@@ -11,14 +11,14 @@ description: "IT Support & Helpdesk | Exploring Cybersecurity & Networks | Portf
 people:
 - name: Ralph John Cortez
   pic: profile
-  position: IT Support & Helpdesk Technician II
+  position: IT Support & Helpdesk Technician IV
   social:
     - title: twitter
-      url: # https://x.com/ralphcortezzz
+      url: https://x.com/ralphcortezzz
     - title: facebook
-      url: # https://www.facebook.com/ralphcortezzz
+      url: https://www.facebook.com/ralphcortezzz
     - title: google-plus
-      url: # ralph.john.cortez@gmail.com
+      url: ralph.john.cortez@gmail.com
     - title: file-pdf-o
       url: resume.pdf
 
